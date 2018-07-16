@@ -28,7 +28,27 @@ const actualQuotes = [
     "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.\n- Gautama Buddha",
     "Peace comes from within. Do not seek it without.\n- Gautama Buddha",
     "You only lose what you cling to.\n- Gautama Buddha",
-
+    "When I'm around you, I kind of feel like I'm on drugs. Not that I do drugs. Unless you do drugs, in which case I do them all the time. All of them. \n- Scott Pilgrim",
+    "I know you play mysterious and aloof just to avoid getting hurt. And I know you have reasons for not wanting talk about your past. I want you to know that I don't care about any of that stuff. Because I'm in lesbians with you. \n- Scott Pilgrim",
+    "Bread makes you fat? \n- Scott Pilgrim",
+    "Knives Chau: I've never even kissed a guy before.\n\nScott Pilgrim: Hey... me neither.",
+    "Stacey Pilgrim: Did you really see a future with this girl?\n\nScott Pilgrim: Like... with jet-packs?",
+    "Scott Pilgrim: You once were a ve-gone, but now you will begone.\n\nTodd Ingram: Ve-gone?",
+    "Wallace Wells: Guess who's drunk!\nScott Pilgrim: I guess Wallace.\nWallace Wells: You guess right!",
+    "Envy Adams: You are incorrigible. \n\nTodd Ingram: I don't know the meaning of the word. \n\n(He really doesn't.)",
+    "Envy Adams: Short answer: Vegans are just better then everyone else.",
+    "Do, or do not. There is no try. \n- Yoda",
+    "Sing us a song, you're the piano man, sing us a song tonight. \n\n'Cause we're all in the mood for a melody, and you've got us feeling all right \n- Billy Joel",
+    "'Cause they're sharing a drink they call loneliness, but it's better than drinking alone. \n- Billy Joel",
+    "If you're going through hell, keep going. \n- Winston Churchill",
+    "Never, never, never give up. \n- Winston Churchill",
+    "We make a living by what we get, but we make a life by what we give. \n- Winston Churchill",
+    "Success consists of going from failure to failure without loss of enthusiasm. \n- Winston Churchill",
+    "History is written by the victors. \n- Winston Churchill",
+    "Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honor and good sense.\n- Winston Churchill",
+    "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. \n- Winston Churchill",
+    "Never in the field of human conflict was so much owed by so many to so few.\n- Winston Churchill",
+    "If you can fill the unforgiving minute \n With sixty seconds’ worth of distance run,\nYours is the Earth and everything that’s in it,\n And—which is more—your adulthood is won!\n\n- Rudyard Kipling (w/ gender neutral edit by some rando on the internet)",
 ]
 
 module.exports = actualQuotes;
