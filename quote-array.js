@@ -1,5 +1,5 @@
 const actualQuotes = [
-    "Now, while this day is yours,make full use of it. \n- Ralph Marston",
+    "Now, while this day is yours, make full use of it. \n- Ralph Marston",
     "Do, think, dream, feel, with everything you are. Life is yours today, and well worth all you can give. \n- Ralph Marston",
     "Make the best choice, not just the easiest choice. \n- Ralph Marston",
     "Tell yourself something good, and let that goodness come to life through you. \n- Ralph Marston",
@@ -48,7 +48,8 @@ const actualQuotes = [
     "Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honor and good sense.\n- Winston Churchill",
     "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. \n- Winston Churchill",
     "Never in the field of human conflict was so much owed by so many to so few.\n- Winston Churchill",
-    "If you can fill the unforgiving minute \n With sixty seconds’ worth of distance run,\nYours is the Earth and everything that’s in it,\n And—which is more—your adulthood is won!\n\n- Rudyard Kipling (w/ gender neutral edit by some rando on the internet)",
+    "If you can fill the unforgiving minute \n With sixty seconds’ worth of distance run,\nYours is the Earth and everything that’s in it,\n And—which is more—your adulthood is won!\n\n- Rudyard Kipling (w/ gender neutral edit found on google)",
+    "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he, who in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother’s keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee. \n\n-Pulp Fiction"
 ]
 
 module.exports = actualQuotes;

@@ -17,7 +17,11 @@ function logQuote(){
     
     const wrappedQuote = wrap(getQuote(),{width})
     //console.log(wrappedQuote)
+    console.log();
+    console.log();
     console.log(boxen(wrappedQuote,boxSets))
+    console.log();
+    console.log();
 }
 
 function getQuote(){
