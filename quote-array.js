@@ -64,7 +64,8 @@ const actualQuotes = [
     "He aha te mea nui o te ao? He tangata, he tangata, he tangata. \n\nWhat is the most important thing in the world? It is people, it is people, it is people. \n\n- Maori Proverb",
     "Pierce: [raising a glass] To the empowerage of words.\n\nJeff: To the irony of that sentence.\n\n- Community",
     "Jeff: Hey, Troy sneezes like a girl! \n\nTroy: And how 'bout I pound you like a boy! That didn't come out right.\n\n- Community",
-    "Nobody knows it, but I've got secret screen, something something only for me."
+    "Nobody knows it, but I've got secret screen, something something only for me.",
+    "People tend to overestimate what they can do in a short amount of time and underestimate what they can do in even a slightly longer time. \n\n- Stan (Bill Gates and Tony Robbins have said something similar, but this more awesome version appears to be a Roache original)"
 ]
 
 module.exports = actualQuotes;
