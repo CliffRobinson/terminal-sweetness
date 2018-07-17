@@ -1,5 +1,5 @@
 # Terminal Sweetness#
-###Because sometimes, a spoon full of sugar helps the coding go down###
+#####Because sometimes, a spoon full of sugar helps the coding go down
 
 This is a mini-project designed shine a little ray of sunshine into your terminal while you're neck-deep in debugging nastiness. 
 
