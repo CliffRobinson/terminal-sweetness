@@ -48,7 +48,7 @@ const actualQuotes = [
     "Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honor and good sense.\n- Winston Churchill",
     "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. \n- Winston Churchill",
     "Never in the field of human conflict was so much owed by so many to so few.\n- Winston Churchill",
-    "If you can fill the unforgiving minute \n With sixty seconds’ worth of distance run,\nYours is the Earth and everything that’s in it,\n And—which is more—your adulthood is won!\n\n- Rudyard Kipling (w/ gender neutral edit found on google)",
+    "If you can fill the unforgiving minute \n With sixty seconds’ worth of distance run,\nYours is the Earth and everything that’s in it,\n And—which is more—your adulthood is won!\n\n- Rudyard Kipling \n(w/ gender neutral edit found on google)",
     "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he, who in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother’s keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon thee. \n\n-Pulp Fiction",
     "It is no measure of health to be well adjusted to a profoundly sick society. \n- Jiddu Krishnamurti (h/t Reuben)",
     "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn \n- H.P. Lovecraft (for Plague)",
@@ -57,7 +57,7 @@ const actualQuotes = [
     "Your parents haven't given you the bang chat yet? \nAnd *now* I start the recording\n\n-Harrison",
     "Just make a digital bookshelf.\n\n- Harrison",
     "Make a Brad Simulator.\n\n- Harrison",
-    "What it does is it whips the <div> out at the last second \n\n- Ross",
+    "What it does is it whips the <div> out at the last second \n\n- Ross Jourdain",
     "Rupert: I think I would travel back in time to when I was eating my breakfast, that was awesome.\n\nCliff: ... I've got good news for you, mate.",
     "IT'S A TRAP!! \n\n- Admiral Ackbar (h/t Riki)",
     "Time to hit the dusty trail. \n\n- Dan",
@@ -65,7 +65,9 @@ const actualQuotes = [
     "Pierce: [raising a glass] To the empowerage of words.\n\nJeff: To the irony of that sentence.\n\n- Community",
     "Jeff: Hey, Troy sneezes like a girl! \n\nTroy: And how 'bout I pound you like a boy! That didn't come out right.\n\n- Community",
     "Nobody knows it, but I've got secret screen, something something only for me.",
-    "People tend to overestimate what they can do in a short amount of time and underestimate what they can do in even a slightly longer time. \n\n- Stan (Bill Gates and Tony Robbins have said something similar, but this more awesome version appears to be a Roache original)"
+    "People tend to overestimate what they can do in a short amount of time and underestimate what they can do in even a slightly longer time. \n\n- Stanley Roache \n(Bill Gates and Tony Robbins have said something similar, but this more awesome version appears to be a Roache original)",
+    "When in mortal danger, \nWhen beset by doubt, \nRun in little circles, \nWave your arms and shout. \n- Sandy Mitchell"
+
 ]
 
 module.exports = actualQuotes;
