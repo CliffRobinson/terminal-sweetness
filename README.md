@@ -20,6 +20,6 @@ server.listen(port, ()=> {
 
 ##### Future Goals:
 
-This is obviously not a node module yet. I'll try to make it one after I'm done with final projects.
+This can always do with more quotes. They don't just have to be serious inspirational stuff, they can be song lyrics or funny lines from movies/TV. Anything to lighten the mood while doing serious web dev bsns. Feel free to submit pull reqs for more. 
 
-Secondly, this can always do with more quotes. They don't just have to be serious inspirational stuff, they can be song lyrics or funny lines from movies/TV. Anything to lighten the mood while doing serious web dev bsns. Feel free to submit pull reqs for more. 
+Once there are enough quotes spread over enough different topics, I will likely make different batches of quotes you can add and remove modularly. 
