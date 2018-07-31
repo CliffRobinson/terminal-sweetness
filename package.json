@@ -4,5 +4,26 @@
   "dependencies": {
     "boxen": "^1.3.0",
     "word-wrap": "^1.2.3"
-  }
+  },
+  "description": "This is a mini-project designed shine a little ray of sunshine into your terminal while you're neck-deep in debugging nastiness.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffRobinson/terminal-sweetness.git"
+  },
+  "keywords": [
+    "terminal",
+    "sweetness",
+    "quotes"
+  ],
+  "author": "CliffRobinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CliffRobinson/terminal-sweetness/issues"
+  },
+  "homepage": "https://github.com/CliffRobinson/terminal-sweetness#readme"
 }
