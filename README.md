@@ -3,7 +3,7 @@
 
 This is a mini-project designed shine a little ray of sunshine into your terminal while you're neck-deep in debugging nastiness. 
 
-To use, save the repo somewhere (for now, I suggest putting it in your workspace, or otherwise adjacent to whatever project you want to use it in), then requiring it. Calling the required variable as a function will send a nice quote to your terminal. 
+To use, require the module and save as a variable. Calling the required variable as a function will send a nice quote to your terminal. 
 
 The project is intended to run on server start, so that when a watch flag causes your code to restart and you anxiously await errors, you get a wee bit of encouragement. For example, see the server/index.js of the project I'm currently working on:
 
